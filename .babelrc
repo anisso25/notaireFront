@@ -1,0 +1,24 @@
+{
+  "plugins": [
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "style": true
+      }
+    ],
+    [
+      "babel-plugin-root-import",
+      {
+        "paths": [
+          {
+            "rootPathPrefix": "~",
+            "rootPathSuffix": "src/"
+          }
+        ]
+      }
+    ],
+    "@babel/plugin-proposal-optional-chaining",
+    "babel-plugin-styless"
+  ]
+}

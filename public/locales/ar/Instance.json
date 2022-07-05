@@ -1,0 +1,11 @@
+{
+  "cta_new": "إضافة {{entity}}",
+  "cta_edit": "تعديل معلومات ال{{entity}}",
+  "list_title": "القائمة ({{entity}})",
+  "main_information": "المعلومات الرئيسية",
+  "relationships_to": "موارد ذات صلة",
+  "relationships_from": "Relationships from",
+  "additional_relationship_info": "معلومات إضافية",
+  "edit_additional_relationship_info": "تعديل المعلومات الإضافية",
+  "show_relationship_info": "إظهار المعلومات الإضافية"
+}

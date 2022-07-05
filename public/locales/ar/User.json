@@ -1,0 +1,13 @@
+{
+  "login": "تسجيل الدخول",
+  "send_recovery_email": "إرسال بريد إلكتروني للاسترداد",
+  "recovery_email_sent": "لقد أرسلنا بريدًا إلكترونيًا للتحقق إلى عنوان بريدك الإلكتروني",
+  "back_to_login": "العودة لتسجيل الدخول",
+  "forgot_your_password": "نسيت كلمة المرور ؟",
+  "change_password": "تغيير كلمة المرور",
+  "new_password": "كلمة المرور الجديدة",
+  "office_name": "إسم المكتب",
+  "edit_password": "تعديل كلمة المرور",
+  "edit_profile": "تعديل الملف الشخصي",
+  "edit_office_infos": "تعديل معلومات المكتب"
+}

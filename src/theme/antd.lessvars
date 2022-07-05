@@ -1,0 +1,16 @@
+@import 'antd/lib/style/color/colors';
+
+// Antd vars
+@layout-footer-background: @cyan-10;
+@font-size-base: 16px;
+@line-height-base: 1.5;
+
+// Custom vars
+@tagTextColor: #2E9765;
+@tagBackgroundColor: #F2F2F2;
+@tagHoverBorderColor: #FEC200;
+@sectionBorderColor: #2593FC;
+@treeBordersColor: #2593FC;//#F0F2F5;
+@treeNodeHoverColor: #F0F2F5;
+@treeNodeBottomSpaceSize: 15;
+@treeNodeRightSpaceSize: 32;

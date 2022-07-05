@@ -1,0 +1,16 @@
+{
+  "category": {
+    "list_title": "قائمة الفئات",
+    "cta_new": "إضافة فئة",
+    "cta_edit": "تعديل الفئة",
+    "icon": "أيقونة"
+  },
+  "template": {
+    "list_title": "قائمة القوالب",
+    "cta_new": "إضافة قالب",
+    "cta_edit": "تعديل القالب",
+    "new_resource": "إضافة مورد جديد",
+    "insert_tag": "إضافة علامة معلومة",
+    "paragraph_dashed_ending": "فقرة مع نهاية بخطوط متقطعة "
+  }
+}

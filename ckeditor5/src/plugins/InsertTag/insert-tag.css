@@ -1,0 +1,46 @@
+.ck-content .custom-tag {
+  font-family: sans-serif, Arial, Verdana, "Trebuchet MS", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  display: inline-flex !important;
+  color: #2E9765;
+  background-color: #F2F2F2 !important;
+  font-size: 10pt;
+  line-height: normal;
+  cursor: pointer;
+  font-weight: normal;
+  border-radius: 5px;
+  padding: 1px 6px !important;
+}
+
+.ck-content .custom-tag::selection {
+  color: #2E9765;
+  background: none !important;
+}
+.ck-content .custom-tag::-moz-selection {
+  color: #2E9765;
+  background: none !important;
+}
+
+/*
+.ck-content .custom-tag::after,
+.ck-content .custom-tag::before
+{
+  font-family: 'NotoNaskhArabic';
+  display: inline-flex;
+  color: initial;
+  background-color: white;
+  margin: -5px 0;
+  align-items: center;
+}
+
+.ck-content .custom-tag::after {
+  content: attr(suffix);
+  margin-right: 5px;
+  padding-right: 3px;
+}
+
+.ck-content .custom-tag::before {
+  content: attr(prefix);
+  margin-left: 5px;
+  padding-left: 3px;
+}
+*/
